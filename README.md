@@ -2,6 +2,8 @@
 
 Windows x64 本地会员续费与新生跟进工作台。
 
+[下载最新 Windows 独立版](https://github.com/goosebump13/dplayer-workbench-releases/releases/latest)
+
 ## 下载与使用
 
 从本仓库 Releases 下载完整的 Windows 分发 ZIP，全部解压后双击“DPLAYER运营工作台.exe”。保留 EXE 和 _internal 文件夹在一起，无需安装 Python、Git 或 GitHub，也无需 GitHub 账号。
